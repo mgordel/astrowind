@@ -4,7 +4,8 @@ excerpt: Start your web journey with AstroWind – harness Astro and Tailwind CS
 author: John Smith
 metadata:
   canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
-title: "Get started with AstroWind to create a website using Astro and Tailwind CSS "
+title: Get started with AstroWind to create a website using Astro and Tailwind
+  CSS  ssss
 category: Tutorials
 tags:
   - astro
